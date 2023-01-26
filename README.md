@@ -1,5 +1,5 @@
-# Управление.
-W - вверх (up), S - вниз (down), A - влево (left), D - вправо (right).
+# Управление `(control)`
+W - вверх `(up)`, S - вниз `(down)`, A - влево `(left)`, D - вправо `(right)`.
 # Установка библиотеки (install library).
 pip install pygame
 
